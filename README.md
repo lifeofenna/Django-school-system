@@ -1,0 +1,1 @@
+# Django-school-system
